@@ -1,2 +1,3 @@
-# Portaserver
-All Portaserver or Portaserver V2 buildse
+# Portaserver V2
+This is a bit different:
+Run the build.bat command in the folder
